@@ -4,7 +4,10 @@ function Footer() {
     return (
         <footer className="footer" id="contact">
             <h3>Your Health Is Our Responsibility</h3>
-            <a href="#" className="contact-btn">Contact Us</a>
+            <a href="https://instagram.com" target="_blank" rel="noreferrer">
+                Instagram
+            </a>
+
         </footer>
     );
 }
